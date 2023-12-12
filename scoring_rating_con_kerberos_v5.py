@@ -858,7 +858,7 @@ df_stratus.to_excel(writer,index=False,sheet_name='stratus')
 df_aqp_master.to_excel(writer,index=False,sheet_name='aqp-master')
 conteo_segmento.to_excel(writer,index=True,sheet_name='segmento')
 df_cont_real.to_excel(writer,index=True,sheet_name='cont_real')
-df_lake_static.to_excel(writer,index=True,sheet_name='lake_static_revisar_vacios')
+df_lake_static.to_excel(writer,index=True,sheet_name='lake_static_revisar_vacioss')
 
 # df_names_5493.to_excel(writer,index=True,sheet_name='5493')
 # df_names_5505.to_excel(writer,index=True,sheet_name='5505')
