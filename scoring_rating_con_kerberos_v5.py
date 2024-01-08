@@ -868,4 +868,4 @@ writer.close()
 
 
 print(hora_actual)
-print("Archivo Excel completado")
+print("Archivo Excel completado_v2")
